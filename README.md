@@ -1,16 +1,13 @@
-## Hi there 👋
+## 
+<div align="center">
+  <h1>Welcome to nullcryptodev's GitHub Page</h1>
+  <img src="https://thumb.r2.moele.me/t/29100/29090054/f-694845.png" />
+</div>
 
-<!--
-**nullcryptodev/nullcryptodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 2026 TODO LIST
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Work on Blackbox more
+  - Finish wallet login example
+  - Create dApp examples
+- Complete Portfolio
+- Expand Knowledge
