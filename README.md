@@ -18,6 +18,6 @@ I build things, mostly web apps and the occasional blockchain experiment. Shifte
 | alias | name | description | url |
 |---|---|---|---|
 | @LithyRiolu | DecentraChat | Decentralised, P2P, web-based chat application written in Go | Repo: https://github.com/LithyRiolu/DecentraChat |
-| @LithyRiolu | Conceal Network | Conceal Network is a peer-to-peer privacy-preserving network made for Private DeFi and Encrypted Communications. | Repo: https://github.com/ConcealNetwork/conceal-core |
+| @LithyRiolu / @cartoon-face | Conceal Network | Conceal Network is a peer-to-peer privacy-preserving network made for Private DeFi and Encrypted Communications. | Repo: https://github.com/ConcealNetwork/conceal-core |
 | @Mitoshi | Amitycoin | AmityCoin is a cryptocurrency for the everyday Digital Anonymous Citizen | Repo (old): https://github.com/CalexCore/AmityCoinV3-DO-NOT-USE <br/> Repo (new): https://gitlab.com/amity-project/amity |
 
