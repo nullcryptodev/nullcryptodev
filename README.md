@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://thumb.r2.moele.me/t/29100/29090054/f-694845.png" />
   
-#### *I build things.*
+#### *I just build things.*
 
 </div>
 
