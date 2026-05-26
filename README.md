@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://thumb.r2.moele.me/t/29100/29090054/f-694845.png" />
+  <img src="https://pbs.twimg.com/profile_banners/2036481747135897601/1779461884/1500x500" />
   
 #### *I just build things.*
 
@@ -10,6 +10,7 @@
 |---|---|---|
 | Conceal Network | Conceal Network is a peer-to-peer privacy-preserving network made for Private DeFi and Encrypted Communications. | [Repo](https://github.com/ConcealNetwork/conceal-core) [Website](https://conceal.netork) |
 | Conceal Upgrade | A complete overhaul of the legacy core, with a sidechain as feature | [Pull Request](https://github.com/nullcryptodev/conceal-core/pull/1) |
+| Conceal cpp20 Rewrite | A ground-up rewrite of the Conceal core Blockchain code | [Repo](https://github.com/nullcryptodev/conceal-core-cpp20) |
 | Monero RPC Upgrade | Refactor RPC error handling | [Pull Request](https://github.com/monero-project/monero/pull/10442) |
 | Conceal Rust Rewrite | An attempt to rewrite Conceal to Rust from cpp | [Repo](https://github.com/nullcryptodev/conceal-core-rust) |
 | **Finbyte** | A social platform, built on Cardano  | [Repo](https://github.com/adafinbyte/finbyte) [Website](https://finbyte.network) |
