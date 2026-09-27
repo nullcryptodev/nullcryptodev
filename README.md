@@ -8,6 +8,7 @@
 ## My Projects, Past and Present
 | name | description | url |
 |---|---|---|
+| Clarity | A Byzantine-fault-tolerant proof-of-stake network with a native currency (CLRTY), a general-purpose token system, an automated market maker, a limit-order book, validator rewards with a pot mechanism, and a growing feature set around staking, validator rotation, and on-chain governance of validator sets. <br/> **It's not a fork of anything**. | [Repo](https://github.com/nullcryptodev/Clarity) |
 | Conceal Network | Conceal Network is a peer-to-peer privacy-preserving network made for Private DeFi and Encrypted Communications. | [Repo](https://github.com/ConcealNetwork/conceal-core) [Website](https://conceal.netork) |
 | Conceal Upgrade | A complete overhaul of the legacy core, with a sidechain as feature | [Pull Request](https://github.com/nullcryptodev/conceal-core/pull/1) |
 | Conceal cpp20 Rewrite | A ground-up rewrite of the Conceal core Blockchain code | [Repo](https://github.com/nullcryptodev/conceal-core-cpp20) |
